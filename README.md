@@ -2,6 +2,13 @@
 
 Welcome.  We're busy writing the content.  Bear with us.
 
+# TL;DR
+
+We Love to Code
+Join us in person on the Second Monday of each Month in the [Function Room](https://www.castlerockbrewery.co.uk/function-rooms/canal\
+house-function-room/) the [Canal House](https://www.castlerockbrewery.co.uk/pubs/canalhouse/) in Nottingham
+Join us online at [https://twitch.tv/letsseethecode](twitch.tv/letsseethecode)
+
 # Venue @ Timings
 
 In-person meetups are held on the Second Monday of each Month, in the [Function Room](https://www.castlerockbrewery.co.uk/function-rooms/canalhouse-function-room/) the [Canal House](https://www.castlerockbrewery.co.uk/pubs/canalhouse/) in Nottingham.  The venue which is under 5 minutes from both [Nottingham Train Station](https://www.eastmidlandsrailway.co.uk/trains-stations/at-the-station/station-facilities/not) and [Broadmarsh Bus Station](https://www.transportnottingham.com/public-transport/bus-stations/) and conveniently located next to multiple car parks, such as the [NCP Maid Marion Way](https://www.ncp.co.uk/find-a-car-park/car-parks/nottingham-arndale-centre/) and [Broadmarsh Car Park](https://www.transportnottingham.com/everything-you-need-to-know-about-the-new-broad-marsh-car-park/).
