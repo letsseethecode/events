@@ -10,7 +10,21 @@ The event is planned to start at 6:30pm, but organisers will be present earlier 
 
 # Ethos
 
+Our audience is comprised of people from all different walks of life and levels of experience, from entry-level juniors through to seasoned architects and business founders, but we're all here for the same reason: We love to code.  We're naturally inquisitive and curious and like to life the lid on life and stare at the cogs and gears.
+
+We're all software professionals, but many of us find it hard to grow our skills in our day-to-day work.  Putting in the time training is important for us.  No boxer would ever step into the ring only for prize fights, and no goal keeper would want to face down a penalty shot in a quarter final, without first having put in many hours of training.  They build their muscle memory and reflexes up in an environment where failure is removed from the equation, and that is not normally a luxury we have in our professional lives.  Deadlines drive priorities, and activities that don't directly contribute to moving a project forward don't receive the backing they should.  Therefore lots of us don't get the time to hone our craft, except when we're working.  And while we're working mistakes aren't something we can afford.
+
+LSTC offers us the chance to do things in a safe an supportive environment, whether that's to hone existing skills, learn new ones or even just scratch that itch out of curiosity.
+
+Whatever the reason: We love the code.
+
+Come along.  Feel free to just listen or watch, but know that when you want to roll your sleeves up and dig in that we'll be there for you.
+
 # Structure
+
+* Feedback
+
+    An important part of the groups is getting feedback.  We want to know what interests you, and what areas you're looking to grow.
 
 * Projects
 
