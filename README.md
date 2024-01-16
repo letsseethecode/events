@@ -4,10 +4,10 @@ Welcome.  We're busy writing the content.  Bear with us.
 
 # TL;DR
 
-We Love to Code
-Join us in person on the Second Monday of each Month in the [Function Room](https://www.castlerockbrewery.co.uk/function-rooms/canal\
+* We Love to Code
+* Join us online at [https://twitch.tv/letsseethecode](twitch.tv/letsseethecode)
+* Join us in person on the Second Monday of each Month in the [Function Room](https://www.castlerockbrewery.co.uk/function-rooms/canal\
 house-function-room/) the [Canal House](https://www.castlerockbrewery.co.uk/pubs/canalhouse/) in Nottingham
-Join us online at [https://twitch.tv/letsseethecode](twitch.tv/letsseethecode)
 
 # Venue @ Timings
 
