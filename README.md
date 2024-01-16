@@ -42,7 +42,16 @@ The event is planned to start at 6:30pm, but organisers will be present earlier 
 		These will form a vital part of the LSTC meetup, as it helps people receive constructive feedback on how to improve.
 
 * Code in the Wild
-  * Library Focus
+
+	There is lots of code that exists out in the wild, so we can spend some time looking into it.
+
+    * Library Focus
+	
+		What interesting/useful libraries and frameworks are we using.  Let's lift the lid and stare into their guts.
+		
+	* External Projects
+	
+		Do people have links to external projects that they are able to share?  Here is where we can do that.
 
 # Support
 
