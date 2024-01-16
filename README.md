@@ -14,7 +14,7 @@ The event is planned to start at 6:30pm, but organisers will be present earlier 
 
 * Projects
 
-	Projects are what underpin LSTC, and they form the basis around which all of our activities are centred.  The in-person meetings is where we'll keep members of the group updated.
+    Projects are what underpin LSTC, and they form the basis around which all of our activities are centred.  The in-person meetings is where we'll keep members of the group updated.
 	
 	All projects can be found on our github repository: https://github.com/letsseethecode/
 	
@@ -24,16 +24,22 @@ The event is planned to start at 6:30pm, but organisers will be present earlier 
 
 	   	We'll take time to go through new projects to be put in front of the group.  Each project must have the following:
 		
-		* Lead         - A named individual who is looking to lead the project.
+		* Lead         - A named individual who is looking to lead the project.  They are in charge of the project and their say is final in all matters relating to the project.
 		* Objectives   - What are we looking to achieve (and "fun" or "curiosity" are both good enough answers).
 		* Technologies - A list of technologies that the project will be using.
 		* Contribution - How many people are wanted to contribute to the project. 
   
-  * Demonstrations
+    * Demonstrations
   
-	  
+		Remember, the "Code is the Star" and integral to seeing how we built things we should also see what we built.  Each month we'll review the PRs that have been merged in, demonstrate their features and talk through the features.  Authors can either do the talking or, for the camera shy, the host can do.
   
-  * Code Reviews
+    * Code Reviews
+
+        An integral part of any successful team operating at scale is being Critical Friends.  LSTC is a place where we can come together in a spirity of support and friendship and help people grow their skills and knowledge by offering supportive and constructive reviews of the pull requests we've done.
+
+        Each Pull Request submitted can choose to receive Private or Public feedback.  Anyone selecting Public (which is the recommended option) has the option to present their Code Review to the In-Person meetup, where as a group we discuss.  This isn't something that should be feared, but actively encouraged and enjoyed by the group.
+		
+		These will form a vital part of the LSTC meetup, as it helps people receive constructive feedback on how to improve.
 
 * Code in the Wild
   * Library Focus
