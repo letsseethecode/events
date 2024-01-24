@@ -103,7 +103,6 @@ You can follow the group's project on Twitch at https://twitch.tv/letsseethecode
 
 ## Monday 11th March 2024
 
-Our first meetup is planned for Monday 11th of March.
-
+Our first meetup is planned for Monday 18th of March.
 
 Our first meeting!!  We're really excited about this.
