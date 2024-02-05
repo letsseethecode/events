@@ -1,8 +1,10 @@
-# Feb 4th 2024
+# Feb 5th 2024
 
-## Objectives
+Hi, I'm Chris @nomad3k and I'm teaching myself !rust, !emacs and arduino.
 
 https://github.com/letsseethecode/arduino-nano-iot.git
+
+## Objectives
 
 [X] Tinkering with Arduino Nano 33 IoT today
 [X] Use `minicom` to talk to device
