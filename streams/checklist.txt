@@ -1,0 +1,22 @@
+Pre-flight checklist
+--------------------
+
+[X] Cameras
+    [X] Streamer
+    [X] Greenscreen
+    [X] Hands
+    [X] Laptop
+[X] Mic enabled
+[X] Music is running
+[X] Stream elements
+[X] Content screens
+    [X] Terminal
+    [X] VS Code
+    [X] Browser
+[X] Other
+[X] Started on opening screen
+    [X] Countdown is visible
+[X] Updated the overlay.txt
+[X] Set the stream details OBS
+[X] Stream deck settings
+
